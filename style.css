@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+:root{
+    --White: hsl(0, 0%, 100%);
+    --Light: hsl(212, 45%, 89%);
+    --Grayishblue: hsl(220, 15%, 55%);
+    --Darkblue: hsl(218, 44%, 22%);
+
+
+
+}
+
+.container{
+    display: block;
+    background-color: var(--Light);
+    margin: auto;
+    min-width: 305px;
+    max-width: 1440px;
+    height: 80%;
+    padding-top: 20px;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.297);
+}
+
+.card{
+    background-color: var(--White);
+    margin: auto;
+    margin-top: 65px;
+    margin-bottom: 65px;
+    width: 385px;
+    height: 640px;
+    border-radius: 20px;
+    padding-top: 24px;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.129);
+    
+}
+
+.card img{
+    display: block;
+    margin: auto;
+    height: 338px;
+    width: 338px;
+    border-radius:20px;
+    
+}
+
+.card h1{
+    font-weight:700;
+    font-size: 28px;
+    display: block;
+    text-align: center;
+    padding-top: 47px;
+    color: var(--Darkblue);
+}
+
+.card p {
+    font-weight:400;
+    font-size: 22px;
+    display: block;
+    text-align: center;
+    padding-top: 27px;
+    color: var(--Grayishblue);
+}
+
+.footer{
+    font-size: 22px;
+    font-family: 400;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+.name:hover{
+    font-size:24px ;
+    font-weight: 700;
+    color: var(--Darkblue);
+}
+
+
+
+
+
