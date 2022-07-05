@@ -1,8 +1,7 @@
 <p>
-    <img src="/images/frontendmento-logopng.png" width="120px" alt="logo-frontend-mentor">
+    <img src="/images/frontendmento-logopng.png" width="620px" align"center" alt="logo-frontend-mentor">
+    
 </p>
- frontend mentor QR code challenge
-
 
 # qr-code-component-main
 
