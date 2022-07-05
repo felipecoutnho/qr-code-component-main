@@ -1,17 +1,16 @@
 <p>
-    <img src="/images/frontendmento-logopng.png" width="120px" alt="logo-frontend-mentor">
+    <img src="/images/frontendmento-logopng.png" width="620px" align"center" alt="logo-frontend-mentor">
+    
 </p>
- frontend mentor QR code challenge
-
 
 # qr-code-component-main
 
 <img src="/images/qr-code-component-review.gif" width="500px" alt="Gif do Teste">
 
->  Card Qr-code Component do Frontend Mentor/.
+>  Card Qr-code Component do Frontend Mentor.
 
-  A página foi um desafio proposto no Frontend Mentor / 
-Challenges . Assim, simulando um card qr-code responsivo.
+  A página foi um desafio proposto no Frontend Mentor / Challenges . Assim, simulando um card qr-code responsivo.
+
 ## :dart: Features ##
 
 :heavy_check_mark: Estrutura da página com HTML;\
