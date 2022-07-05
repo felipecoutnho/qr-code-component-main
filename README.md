@@ -7,10 +7,10 @@
 
 <img src="/images/qr-code-component-review.gif" width="500px" alt="Gif do Teste">
 
->  Card Qr-code Component do Frontend Mentor/.
+>  Card Qr-code Component do Frontend Mentor.
 
-  A página foi um desafio proposto no Frontend Mentor / 
-Challenges . Assim, simulando um card qr-code responsivo.
+  A página foi um desafio proposto no Frontend Mentor / Challenges . Assim, simulando um card qr-code responsivo.
+
 ## :dart: Features ##
 
 :heavy_check_mark: Estrutura da página com HTML;\
